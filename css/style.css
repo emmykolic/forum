@@ -1,0 +1,18 @@
+.hero{
+    width: 100%;
+    height: 30vh;
+    background-image: url('../one.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.sociallinks{
+    background: #e3edf7;
+    border-radius: 8px;
+    height: 75px;
+    width: 75px;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+                -6px -6px 10px -1px rgba(225,225,225,0.7);
+                font-size: 35px;
+                color: #777;
+}
